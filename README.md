@@ -1,1 +1,1 @@
-This is Stephanie's first git prject!
+This is Stephanie's first git project!
